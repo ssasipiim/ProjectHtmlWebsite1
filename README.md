@@ -4,5 +4,5 @@
 
 ![Helllo](https://ssasipiim.github.io/ProjectHtmlWebsite1/images1/beatboox.jpg)
 
-`foreach ตรงนี้จะแสดงผลต่างจากข้อความธรรมดา
+`foreach` ตรงนี้จะแสดงผลต่างจากข้อความธรรมดา
 
